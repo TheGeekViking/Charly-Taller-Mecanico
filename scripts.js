@@ -46,3 +46,7 @@ $(document).ready(function () {
       autoplayHoverPause:true
   });
 });
+
+
+// Smooth Scrolling script
+
