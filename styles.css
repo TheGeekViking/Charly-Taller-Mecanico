@@ -168,6 +168,30 @@ margin-right: 0;
   list-style-type: none;
 }
 
+.motor {
+  padding: 0 19%;
+}
+
+.frenos {
+  padding: 0 20%;
+}
+
+.suspension {
+  padding: 0 19%;
+}
+
+.electrico {
+ padding: 0 17%;
+}
+
+.pintura {
+  padding: 0 11%;
+}
+
+.estetica {
+  padding: 0 23%;
+}
+
 .owl-dots {
     width: 100%;
     text-align: center;
