@@ -146,13 +146,10 @@ margin-right: 0;
 }
 
 .slide-content {
-  text-align: center;
-  position: absolute;
-  top: 45%;
-  left: 20%;
-  transform: translateY(-50%);
+  display: grid;
+  grid-template-columns: auto;
   color: #fff;
-  padding: 0 20%;
+  padding: 20% 20%;
 }
 
 .slide-content h1 {
@@ -160,36 +157,15 @@ margin-right: 0;
   font-size: 45px;
   text-transform: uppercase;
   margin-bottom: 20px;
+  text-align: center;
+  z-index: 1;
 }
 
 .slide-content ul li {
   font-family: 'Poppins', sans-serif;
   font-size: 20px;
   list-style-type: none;
-}
-
-.motor {
-  padding: 0 19%;
-}
-
-.frenos {
-  padding: 0 20%;
-}
-
-.suspension {
-  padding: 0 19%;
-}
-
-.electrico {
- padding: 0 17%;
-}
-
-.pintura {
-  padding: 0 11%;
-}
-
-.estetica {
-  padding: 0 23%;
+  text-align: center;
 }
 
 .owl-dots {
