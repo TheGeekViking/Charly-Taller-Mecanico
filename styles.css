@@ -168,6 +168,10 @@ margin-right: 0;
   text-align: center;
 }
 
+.slide-content ul {
+  z-index: 1;
+}
+
 .owl-dots {
     width: 100%;
     text-align: center;
