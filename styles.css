@@ -212,12 +212,12 @@ margin-right: 0;
     right: 1%;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (min-width: 350px) {
     .pintura {
-      padding-left: 5%;
+      padding-left: 10%;
     }
     .suspension {
-      padding-left: 10%;
+      padding-left: 11%;
     }
 }
 
