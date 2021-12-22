@@ -212,7 +212,7 @@ margin-right: 0;
     right: 1%;
 }
 
-@media screen and (min-width: 350px) {
+@media screen and (max-width: 600px) {
     .pintura {
       padding-left: 10%;
       padding-top: 40%;
