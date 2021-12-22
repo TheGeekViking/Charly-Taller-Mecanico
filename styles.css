@@ -215,9 +215,26 @@ margin-right: 0;
 @media screen and (min-width: 350px) {
     .pintura {
       padding-left: 10%;
+      padding-top: 40%;
     }
     .suspension {
       padding-left: 11%;
+      padding-top: 30%;
+    }
+    .frenos {
+      padding: 30% 0;
+    }
+    .clutch {
+      padding: 40% 0;
+    }
+    .electrico {
+      padding: 40% 0;
+    }
+    .escaner {
+      padding: 45% 0;
+    }
+    .estetica {
+      padding: 50% 0;
     }
 }
 
